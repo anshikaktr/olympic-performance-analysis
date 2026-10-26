@@ -1,0 +1,220 @@
+noc,country_name,region,entity_type
+AFG,Afghanistan,Asia,Country
+AHO,Netherlands Antilles,North America,Historical/Combined
+AIN,Individual Neutral Athletes,Neutral/Refugee,Neutral/Refugee
+ALB,Albania,Europe,Country
+ALG,Algeria,Africa,Country
+AND,Andorra,Europe,Country
+ANG,Angola,Africa,Country
+ANT,Antigua and Barbuda,North America,Country
+ARG,Argentina,South America,Country
+ARM,Armenia,Europe/Asia,Country
+ARU,Aruba,North America,Country
+ASA,American Samoa,Oceania,Country
+AUS,Australia,Oceania,Country
+AUT,Austria,Europe,Country
+AZE,Azerbaijan,Europe/Asia,Country
+BAH,The Bahamas,North America,Country
+BAN,Bangladesh,Asia,Country
+BAR,Barbados,North America,Country
+BDI,Burundi,Africa,Country
+BEL,Belgium,Europe,Country
+BEN,Benin,Africa,Country
+BER,Bermuda,North America,Country
+BHU,Bhutan,Asia,Country
+BIH,Bosnia and Herzegovina,Europe,Country
+BIZ,Belize,North America,Country
+BLR,Belarus,Europe,Country
+BOL,Bolivia,South America,Country
+BOT,Botswana,Africa,Country
+BRA,Brazil,South America,Country
+BRN,Bahrain,Asia,Country
+BRU,Brunei,Asia,Country
+BUL,Bulgaria,Europe,Country
+BUR,Burkina Faso,Africa,Country
+CAF,Central African Republic,Africa,Country
+CAM,Cambodia,Asia,Country
+CAN,Canada,North America,Country
+CAY,Cayman Islands,North America,Country
+CGO,Congo (Brazzaville),Africa,Country
+CHA,Chad,Africa,Country
+CHI,Chile,South America,Country
+CHN,People's Republic of China,Asia,Country
+CIV,Côte d'Ivoire,Africa,Country
+CMR,Cameroon,Africa,Country
+COD,Congo (Kinshasa),Africa,Country
+COK,Cook Islands,Oceania,Country
+COL,Colombia,South America,Country
+COM,Comoros,Africa,Country
+COR,Korea (Unified Team),Asia,Historical/Combined
+CPV,Cabo Verde,Africa,Country
+CRC,Costa Rica,North America,Country
+CRO,Croatia,Europe,Country
+CUB,Cuba,North America,Country
+CYP,Cyprus,Europe,Country
+CZE,Czechia,Europe,Country
+DEN,Denmark,Europe,Country
+DJI,Djibouti,Africa,Country
+DMA,Dominica,North America,Country
+DOM,Dominican Republic,North America,Country
+ECU,Ecuador,South America,Country
+EGY,Egypt,Africa,Country
+EOR,Refugee Olympic Team,Neutral/Refugee,Neutral/Refugee
+ERI,Eritrea,Africa,Country
+ESA,El Salvador,North America,Country
+ESP,Spain,Europe,Country
+EST,Estonia,Europe,Country
+ETH,Ethiopia,Africa,Country
+EUN,Unified Team,Europe/Asia,Historical/Combined
+FIJ,Fiji,Oceania,Country
+FIN,Finland,Europe,Country
+FRA,France,Europe,Country
+FSM,Federated States of Micronesia,Oceania,Country
+GAB,Gabon,Africa,Country
+GAM,Gambia,Africa,Country
+GBR,Great Britain,Europe,Country
+GBS,Guinea Bissau,Africa,Country
+GEO,Georgia,Europe/Asia,Country
+GEQ,Equatorial Guinea,Africa,Country
+GER,Germany,Europe,Country
+GHA,Ghana,Africa,Country
+GRE,Greece,Europe,Country
+GRN,Grenada,North America,Country
+GUA,Guatemala,North America,Country
+GUI,Guinea,Africa,Country
+GUM,Guam,Oceania,Country
+GUY,Guyana,South America,Country
+HAI,Haiti,North America,Country
+HKG,"Hong Kong, China",Asia,Country
+HON,Honduras,North America,Country
+HUN,Hungary,Europe,Country
+INA,Indonesia,Asia,Country
+IND,India,Asia,Country
+IOA,Individual Olympic Athletes,Neutral/Refugee,Historical/Combined
+IRI,Islamic Republic of Iran,Asia,Country
+IRL,Ireland,Europe,Country
+IRQ,Iraq,Asia,Country
+ISL,Iceland,Europe,Country
+ISR,Israel,Asia,Country
+ISV,United States Virgin Islands,North America,Country
+ITA,Italy,Europe,Country
+IVB,British Virgin Islands,North America,Country
+JAM,Jamaica,North America,Country
+JOR,Jordan,Asia,Country
+JPN,Japan,Asia,Country
+KAZ,Kazakhstan,Europe/Asia,Country
+KEN,Kenya,Africa,Country
+KGZ,Kyrgyzstan,Asia,Country
+KIR,Kiribati,Oceania,Country
+KOR,Republic of Korea,Asia,Country
+KOS,Kosovo,Europe,Country
+KSA,Kingdom of Saudi Arabia,Asia,Country
+KUW,Kuwait,Asia,Country
+LAO,Laos,Asia,Country
+LAT,Latvia,Europe,Country
+LBA,Libya,Africa,Country
+LBN,Lebanon,Asia,Country
+LBR,Liberia,Africa,Country
+LCA,Saint Lucia,North America,Country
+LES,Lesotho,Africa,Country
+LIB,Lebanon,Asia,Country
+LIE,Liechtenstein,Europe,Country
+LTU,Lithuania,Europe,Country
+LUX,Luxembourg,Europe,Country
+MAD,Madagascar,Africa,Country
+MAR,Morocco,Africa,Country
+MAS,Malaysia,Asia,Country
+MAW,Malawi,Africa,Country
+MDA,Republic of Moldova,Europe,Country
+MDV,Maldives,Asia,Country
+MEX,Mexico,North America,Country
+MGL,Mongolia,Asia,Country
+MHL,Marshall Islands,Oceania,Country
+MKD,North Macedonia,Europe,Country
+MLI,Mali,Africa,Country
+MLT,Malta,Europe,Country
+MNE,Montenegro,Europe,Country
+MON,Monaco,Europe,Country
+MOZ,Mozambique,Africa,Country
+MRI,Mauritius,Africa,Country
+MTN,Mauritania,Africa,Country
+MYA,Myanmar,Asia,Country
+NAM,Namibia,Africa,Country
+NCA,Nicaragua,North America,Country
+NED,Netherlands,Europe,Country
+NEP,Nepal,Asia,Country
+NGR,Nigeria,Africa,Country
+NIG,Niger,Africa,Country
+NOR,Norway,Europe,Country
+NRU,Nauru,Oceania,Country
+NZL,New Zealand,Oceania,Country
+OMA,Oman,Asia,Country
+PAK,Pakistan,Asia,Country
+PAN,Panama,North America,Country
+PAR,Paraguay,South America,Country
+PER,Peru,South America,Country
+PHI,Philippines,Asia,Country
+PLE,Palestine,Asia,Country
+PLW,Palau,Oceania,Country
+PNG,Papua New Guinea,Oceania,Country
+POL,Poland,Europe,Country
+POR,Portugal,Europe,Country
+PRK,Democratic People's Republic of Korea,Asia,Country
+PUR,Puerto Rico,North America,Country
+QAT,Qatar,Asia,Country
+ROC,Russian Olympic Committee,Europe/Asia,Neutral/Refugee
+ROT,Refugee Olympic Team,Neutral/Refugee,Neutral/Refugee
+ROU,Romania,Europe,Country
+RSA,South Africa,Africa,Country
+RUS,Russian Federation,Europe/Asia,Country
+RWA,Rwanda,Africa,Country
+SAM,Samoa,Oceania,Country
+SCG,Serbia and Montenegro,Europe,Historical/Combined
+SEN,Senegal,Africa,Country
+SEY,Seychelles,Africa,Country
+SGP,Singapore,Asia,Country
+SKN,Saint Kitts and Nevis,North America,Country
+SLE,Sierra Leone,Africa,Country
+SLO,Slovenia,Europe,Country
+SMR,San Marino,Europe,Country
+SOL,Solomon Islands,Oceania,Country
+SOM,Somalia,Africa,Country
+SRB,Serbia,Europe,Country
+SRI,Sri Lanka,Asia,Country
+SSD,South Sudan,Africa,Country
+STP,Sao Tome and Principe,Africa,Country
+SUD,Sudan,Africa,Country
+SUI,Switzerland,Europe,Country
+SUR,Suriname,South America,Country
+SVK,Slovakia,Europe,Country
+SWE,Sweden,Europe,Country
+SWZ,Swaziland,Africa,Country
+SYR,Syrian Arab Republic,Asia,Country
+TAN,Tanzania,Africa,Country
+TCH,Czechoslovakia,Europe,Historical/Combined
+TGA,Tonga,Oceania,Country
+THA,Thailand,Asia,Country
+TJK,Tajikistan,Asia,Country
+TKM,Turkmenistan,Asia,Country
+TLS,Timor-Leste,Asia,Country
+TOG,Togo,Africa,Country
+TPE,Chinese Taipei,Asia,Country
+TTO,Trinidad and Tobago,North America,Country
+TUN,Tunisia,Africa,Country
+TUR,Türkiye,Europe/Asia,Country
+TUV,Tuvalu,Oceania,Country
+UAE,United Arab Emirates,Asia,Country
+UGA,Uganda,Africa,Country
+UKR,Ukraine,Europe,Country
+URU,Uruguay,South America,Country
+USA,United States,North America,Country
+UZB,Uzbekistan,Asia,Country
+VAN,Vanuatu,Oceania,Country
+VEN,Venezuela,South America,Country
+VIE,Vietnam,Asia,Country
+VIN,Saint Vincent and the Grenadines,North America,Country
+YEM,Yemen,Asia,Country
+YUG,Yugoslavia,Europe,Historical/Combined
+ZAM,Zambia,Africa,Country
+ZIM,Zimbabwe,Africa,Country
+UNK,Unknown (source NOC missing),Unknown,Unknown

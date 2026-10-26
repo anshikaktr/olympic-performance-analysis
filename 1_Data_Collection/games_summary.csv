@@ -1,0 +1,20 @@
+edition_id,games,year,season,city_english,host_country,participants_official,nocs_official,medal_events,disciplines,source,nocs_in_data,total_medals,gold,silver,bronze,athletes_in_athlete_file,host_total_medals,host_gold
+23,1992 Summer,1992,Summer,Barcelona,Spain,9385,169,257,33,https://www.olympedia.org/editions/23,169,815,260,257,298,9386,22,13
+44,1992 Winter,1992,Winter,Albertville,France,1801,64,57,12,https://www.olympedia.org/editions/44,64,171,57,58,56,1801,9,3
+45,1994 Winter,1994,Winter,Lillehammer,Norway,1738,67,61,12,https://www.olympedia.org/editions/45,67,183,61,61,61,1738,26,10
+24,1996 Summer,1996,Summer,Atlanta,United States,10340,197,271,36,https://www.olympedia.org/editions/24,197,842,271,273,298,10339,101,44
+46,1998 Winter,1998,Winter,Nagano,Japan,2180,72,68,14,https://www.olympedia.org/editions/46,72,205,69,68,68,2179,10,5
+25,2000 Summer,2000,Summer,Sydney,Australia,10647,200,300,39,https://www.olympedia.org/editions/25,200,927,300,300,327,10647,58,16
+47,2002 Winter,2002,Winter,Salt Lake City,United States,2399,77,78,15,https://www.olympedia.org/editions/47,77,234,80,76,78,2399,34,10
+26,2004 Summer,2004,Summer,Athens,Greece,10557,201,301,39,https://www.olympedia.org/editions/26,201,926,301,300,325,10557,16,6
+49,2006 Winter,2006,Winter,Turin,Italy,2494,79,84,15,https://www.olympedia.org/editions/49,79,252,84,84,84,2494,11,5
+53,2008 Summer,2008,Summer,Beijing,People's Republic of China,10899,204,302,41,https://www.olympedia.org/editions/53,204,958,302,303,353,10899,100,48
+57,2010 Winter,2010,Winter,Vancouver,Canada,2536,82,86,15,https://www.olympedia.org/editions/57,82,258,86,87,85,2536,26,14
+54,2012 Summer,2012,Summer,London,Great Britain,10518,205,303,39,https://www.olympedia.org/editions/54,205,960,303,303,354,10517,65,29
+58,2014 Winter,2014,Winter,Sochi,Russian Federation,2747,89,98,15,https://www.olympedia.org/editions/58,89,295,99,97,99,2745,29,10
+59,2016 Summer,2016,Summer,Rio de Janeiro,Brazil,11182,207,306,41,https://www.olympedia.org/editions/59,207,972,306,307,359,11179,19,7
+60,2018 Winter,2018,Winter,PyeongChang,Republic of Korea,2793,93,102,15,https://www.olympedia.org/editions/60,94,307,103,102,102,2922,17,5
+61,2020 Summer,2020,Summer,Tokyo,Japan,11318,206,339,49,https://www.olympedia.org/editions/61,206,1080,340,338,402,11540,58,27
+62,2022 Winter,2022,Winter,Beijing,People's Republic of China,2786,91,109,15,https://www.olympedia.org/editions/62,90,328,109,109,110,2902,15,9
+63,2024 Summer,2024,Summer,Paris,France,10763,206,329,47,https://www.olympedia.org/editions/63,207,1044,329,330,385,10840,64,16
+72,2026 Winter,2026,Winter,Milan-Cortina d'Ampezzo,Italy,2807,93,116,16,https://www.olympedia.org/editions/72,93,349,116,118,115,2905,30,10
